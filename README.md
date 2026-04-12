@@ -1,7 +1,4 @@
-iRacing Caution Prediction System (LSTM‑based)
-
-```markdown
-# 🚦 iRacing Caution Prediction System
+# 🚦 iRacing Caution Prediction System 
 ### *Predict yellow flags 10 seconds ahead – and win on fuel strategy*
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
